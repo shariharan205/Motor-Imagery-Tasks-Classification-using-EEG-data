@@ -1,3 +1,5 @@
+# Motor-Imagery-Tasks-Classification-using-EEG-data
+
 In this project, datasets collected from electroencephalography (EEG) are used. A complete description of the data is available at: http://www.bbci.de/competition/iv/desc_2a.pdf
 
 EEG reflects the coordinated activity of millions of neurons near a non-invasive scalp electrode. Because these are scalp potentials, necessarily, they have relatively poor spatiotemporal resolution compared to other neural recording techniques. EEG is believed to be recording dipoles that are transmitted through the scalp.
